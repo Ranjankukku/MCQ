@@ -64,3 +64,10 @@ a.True
 Feedback: This is a quote from the Economist’ article [“Data is the new oil”](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data) and is generally accepted to be True. You could however present a strong argument that this is actually a False statement. Perhaps by looking at the problems that “big data” presents. Take a look at the discussion topic on big data.
 
 b.False
+
+
+
+<img width="1470" alt="Screenshot 2024-12-08 at 9 42 08 PM" src="https://github.com/user-attachments/assets/39aa61e3-3997-4ee0-bcee-d807f5edac84">
+<img width="1470" alt="Screenshot 2024-12-08 at 9 41 59 PM" src="https://github.com/user-attachments/assets/9bffe8e2-968e-42a9-84f2-ad0c74dad895">
+
+
